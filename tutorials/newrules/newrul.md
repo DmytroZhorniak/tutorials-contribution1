@@ -1,9 +1,9 @@
 ---
 title: TutorialTopaz3
-description: ADMINTOOL
+description: ADMINTOOL 222
 tags: [tutorial>advanced, tutorial:product/sapHana]
 primary_tag: tutorial:product/mobile
-time: 111
+time: 30 min
 ---
 
 
@@ -13,17 +13,20 @@ time: 111
  - **Tutorials:** This tutorial is part of a series.  The previous tutorial is [Set up the Northwind Destination](https://go.sap.com/developer/tutorials/hcp-create-destination.html)
 
 ## Next Steps
- - This tutorial is part of a series.  The next tutorial is part 4: [Add a list to the current view](https://go.sap.com/developer/tutorials/sapui5-webide-add-list.html)
+ - TEST
   
 
 ## Details
 ### You will learn  
-Now that you have set up a Dqqqqestination in the HANA Cloud Platform (HCP) cockpit, you will connect that destination to your local application.    
+Now that you have set up a Dqqqqestination in the HANA Cloud Platform (HCP) cockpit, you will connect that destination to your local application.  a   aaaaaa
 
 ## Prerequisites  
 - [Access your first data in a SAP HANA XSC Application](http://go.sap.com/developer/tutorials/hana-data-access-authorizations.html)
 
 
+[ACCORDION-BEGIN [STEP 6](regex-begins-with)] 
+[VALIDATE_6] 
+[ACCORDION-END]
 
 [ACCORDION-BEGIN [STEP 1](single-choice rule)] 
 [VALIDATE_8] 
