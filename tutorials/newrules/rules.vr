@@ -5,7 +5,7 @@
 regex-with-id-exact-match
 
 ###Match
-https://account.hanatrial.ondemand.com/cockpit/#/acc/[id]trial
+https://account.hanatrial.ondemand.com/cockpit/#/acc/[id]/accountdashboard
 
 ###Question
 Is regex-begins-with working?
