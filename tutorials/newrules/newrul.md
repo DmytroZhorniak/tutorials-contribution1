@@ -23,6 +23,9 @@ Now that you have set up a Dqqqqestination in the HANA Cloud Platform (HCP) cock
 ## Prerequisites  
 - [Access your first data in a SAP HANA XSC Application](http://go.sap.com/developer/tutorials/hana-data-access-authorizations.html)
 
+[ACCORDION-BEGIN [STEP 5](rexact-match-precise)] 
+[VALIDATE_5] 
+[ACCORDION-END]
 
 [ACCORDION-BEGIN [STEP 6](regex-begins-with)] 
 [VALIDATE_6] 
